@@ -26338,7 +26338,7 @@
       "aura/component",
       "aura/component/light",
       "aura/component/dark",
-      "app"
+      "app-1"
     ]
   }
 }

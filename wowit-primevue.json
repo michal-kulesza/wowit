@@ -22379,7 +22379,7 @@
       "font": {
         "size": {
           "$type": "fontSizes",
-          "$value": "14"
+          "$value": "16"
         }
       },
       "card": {

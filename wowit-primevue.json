@@ -1039,6 +1039,52 @@
         "$type": "color",
         "$value": "#0c0a09"
       }
+    },
+    "wow-primary": {
+      "50": {
+        "$type": "color",
+        "$value": "#fcf3f8"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#FAE9F3"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#F7D3E7"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#F1B0D3"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#E77FB5"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#DC5899"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#C93979"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#BE2C69"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#902450"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#792245"
+      },
+      "950": {
+        "$type": "color",
+        "$value": "#490E25"
+      }
     }
   },
   "aura/semantic": {
@@ -2057,7 +2103,7 @@
     "primary": {
       "color": {
         "$type": "color",
-        "$value": "{primary.500}"
+        "$value": "{wow-primary.500}"
       },
       "contrast": {
         "color": {
@@ -2524,7 +2570,7 @@
     "primary": {
       "color": {
         "$type": "color",
-        "$value": "{primary.400}"
+        "$value": "{wow-primary.400}"
       },
       "contrast": {
         "color": {
@@ -16583,7 +16629,7 @@
         },
         "color": {
           "$type": "color",
-          "$value": "{primary.700}"
+          "$value": "{wow-primary.700}"
         }
       },
       "secondary": {
@@ -20351,7 +20397,7 @@
         },
         "color": {
           "$type": "color",
-          "$value": "{primary.300}"
+          "$value": "{wow-primary.300}"
         }
       },
       "secondary": {
